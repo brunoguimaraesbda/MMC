@@ -1,6 +1,6 @@
 # Relatórios Manutenção e Montagem de computadores
 ## aula 6 26/10/2023
-### **Estudante:** Geise Silva
+### **Estudante:** Bruno Guimarães
 
 # instalação de sistema operacinal
 a instalação de um sistema operacional é feita atraves de um pen-drive bootavel, primero reiniciamos o sistema e clicamos na tecla f12 assim que o sistema ouver reiniciado em outra tela selecione o pendrive e comece a configuração para instalar o sistema operacional. quando a instalação ouver terminado configure o sistema final.
