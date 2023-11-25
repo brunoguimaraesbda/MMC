@@ -1,6 +1,6 @@
 # Arquitetura de Computadores
 ## Aula 05 - 14/09/2023
-###   Geise Silva
+### Bruno Guimarães
 
 # Arquitetura
 
