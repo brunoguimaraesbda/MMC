@@ -1,6 +1,6 @@
 # Relatório sobre bipes 
 ## Aula 05
-### **Estudante:** Geise Silva
+### **Estudante:** Bruno Guimarães
 
 Segundo a fonte de informação, 2023 "O Speaker tem como principal objetivo auxiliar na identificação do que está acontecendo com o equipamento e seus beeps não são nada mais do que a BIOS da placa mãe “conversando” com o usuário através de sequencias sonoras.
 
