@@ -1,6 +1,6 @@
 # Relatórios Manutenção e Montagem de computadores 
 ## Aula 04 
-### Geise Silva 
+### Bruno Guimarães 
 Cada estudante ficou responsável por um gabinete, disponibilizado pela Escola GM3. Na oportunidade, além de abrir o gabinete, vimos internamente, tendo a oportunidade de testar a Fonte, memórias e placa-mãe. 
 
 Periférico      |Possui   |Especificações    
